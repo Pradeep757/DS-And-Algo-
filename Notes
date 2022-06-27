@@ -29,6 +29,6 @@ Lined List --
     head
          |
          |
-     +------------+----------------------+ 
-     | data field | Pointer or reference |
+     +------------+----------------------+
+     | data field(data) | Pointer or reference |
      +------------+----------------------+
